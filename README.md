@@ -6,11 +6,11 @@ This is a list of the projects that I am currently working on under the Where Wh
 
 This was the site that I built that first gained an audience, and entirely just because the domain name resonated so well with people.
 
-## [How fast am I going?](https://whatismyelevation.com/how-fast-am-i-going)
+## [Online speedometer](https://whatismyelevation.com/how-fast-am-i-going)
 
 This was my second addition, originally at its own site but now listed under what is my elevation.
 
-This site also speaks for itself, simply giving you your device reading for speed, along with direction.
+This site also speaks for itself: it will tell you how fast you are going by looking you your device GPS reading for speed. It also tells you what direction you are going in.
 
 ## [What is my location?](https://whatismyelevation.com/what-is-my-address)
 
